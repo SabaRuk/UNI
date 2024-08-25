@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//UNI/static/css/main.4c952ce0.css",
-    "main.js": "//UNI/static/js/main.288cbb7c.js",
-    "static/js/488.f501b146.chunk.js": "//UNI/static/js/488.f501b146.chunk.js",
-    "index.html": "//UNI/index.html",
-    "main.4c952ce0.css.map": "//UNI/static/css/main.4c952ce0.css.map",
-    "main.288cbb7c.js.map": "//UNI/static/js/main.288cbb7c.js.map",
-    "488.f501b146.chunk.js.map": "//UNI/static/js/488.f501b146.chunk.js.map"
+    "main.css": "/UNI/static/css/main.4c952ce0.css",
+    "main.js": "/UNI/static/js/main.2252eedd.js",
+    "static/js/488.f501b146.chunk.js": "/UNI/static/js/488.f501b146.chunk.js",
+    "index.html": "/UNI/index.html",
+    "main.4c952ce0.css.map": "/UNI/static/css/main.4c952ce0.css.map",
+    "main.2252eedd.js.map": "/UNI/static/js/main.2252eedd.js.map",
+    "488.f501b146.chunk.js.map": "/UNI/static/js/488.f501b146.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c952ce0.css",
-    "static/js/main.288cbb7c.js"
+    "static/js/main.2252eedd.js"
   ]
 }
